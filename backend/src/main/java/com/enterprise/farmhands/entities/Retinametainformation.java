@@ -10,8 +10,8 @@ import java.io.Serializable;
  */
 
 @Entity
-@Table(name = "RETINAMETAINFORMATION")
-public class RetinaMetaInformation implements Serializable {
+@Table(name = "test")
+public class Retinametainformation implements Serializable {
   @Id
   private long id;
   private String name;
