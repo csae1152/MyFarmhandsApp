@@ -2,7 +2,6 @@ package com.enterprise.farmhands;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 /**
  * @author Helmut
@@ -10,7 +9,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
  *
  */
 @SpringBootApplication
-@EnableJpaRepositories("com.enterprise.farmhands.repositories")
 public class MyFarmhandsApp {
   /**
    *
