@@ -1,3 +1,3 @@
-class Start {
+public class Start {
 
 }
