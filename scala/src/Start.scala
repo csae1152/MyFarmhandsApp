@@ -1,3 +1,3 @@
-public class Start {
+public default class Start {
 
 }
